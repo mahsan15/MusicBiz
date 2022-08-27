@@ -2,8 +2,7 @@
 
 ## ASP.NET MVC Music application
 
-This app is a music app where depending on your role, you are given certain assessability.
-Ablbums, Artists and Tracks are all connected with relationships
+This app is a music app, depending on your role, you are given certain accessibility. Albums, Artists, and Tracks are all connected with relationships
 
 ## Entity Models: 
 - Album
